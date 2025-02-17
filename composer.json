@@ -1,5 +1,5 @@
 {
-    "name": "ibtissamrafiki/blogpackage",
+    "name": "rafiki-ibtissam/sprint-3-php",
     "description": "A demo package",
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.11",
